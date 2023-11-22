@@ -1,0 +1,31 @@
+.navbar
+{       
+	
+	color: white;
+	height:9%;
+	background-color:#003300; 	
+}
+
+.nav.navbar-nav.navbar-right li a 
+{
+    	color: white;
+	margin-right:15px;
+}
+.glyphicon:before
+{
+  	margin-right: 5px;
+}
+.a
+{
+	border:2px solid black;
+	font-family:Calibri;
+	color:black;
+	width: 39%;
+	height:1500%;
+	margin-top:-35%;
+	text-align:center;
+	background:red;
+	margin-left:11%;
+	background-color:white;	
+	position:absolute;
+}
